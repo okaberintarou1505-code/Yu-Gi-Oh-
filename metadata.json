@@ -1,0 +1,6 @@
+{
+  "name": "Tag Force Builder",
+  "description": "Yu-Gi-Oh! GX Tag Force deck builder, card synergy engine, progression filters, and 2008 meta decks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
